@@ -1,0 +1,20 @@
+@import 'https://fonts.googleapis.com/css?family=Fjalla+One
+#page_title {
+  font-family:Fjalla+One
+}
+h1 {
+  color: blue;
+  background-color: black;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  color: deepskyblue;
+  background-image: url("http://www.electrohound.com/main/wp-content/uploads/2007/07/daftpunk1.jpg");
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
