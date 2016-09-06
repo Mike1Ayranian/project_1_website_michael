@@ -1,0 +1,9 @@
+@import 'https://fonts.googleapis.com/css?family=Fjalla+One|Inconsolata|Oxygen';
+h1 {
+  color: gold;
+  background-color: black;
+  text-align: center;
+  font-family: Fjalla One;
+  padding: 25px;
+  margin: 30px;
+}

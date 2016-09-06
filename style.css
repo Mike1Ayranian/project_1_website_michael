@@ -1,19 +1,26 @@
-@import 'https://fonts.googleapis.com/css?family=Fjalla+One
-#page_title {
-  font-family:Fjalla+One
-}
+@import 'https://fonts.googleapis.com/css?family=Fjalla+One|Inconsolata|Oxygen';
 h1 {
-  color: blue;
+  color: gold;
   background-color: black;
   text-align: center;
+  font-family: Fjalla One;
+  padding: 25px;
+  margin: 30px;
 }
 h2 {
   text-align: center;
+  font-family: Inconsolata;
+  color: gold;
+  background-color: black;
+  padding: 10px;
+  margin: 20px;
+  width: 475px;
 }
 p {
-  color: deepskyblue;
-  background-image: url("http://www.electrohound.com/main/wp-content/uploads/2007/07/daftpunk1.jpg");
+  color: gold;
+  background-image: url("https://a4-images.myspacecdn.com/images03/2/85a286a4bbe84b56a6d57b1e5bd03ef4/300x300.jpg");
   text-align: center;
+  font-family: oxygen;
 }
 nav {
   text-align: center;
