@@ -1,6 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Fjalla+One|Inconsolata|Oxygen';
 h1 {
-  color: gold;
+  color: red;
   background-color: black;
   text-align: center;
   font-family: Fjalla One;
@@ -10,14 +10,14 @@ h1 {
 h2 {
   text-align: center;
   font-family: Inconsolata;
-  color: gold;
+  color: red;
   background-color: black;
   padding: 10px;
   margin: 20px;
   width: 475px;
 }
 p {
-  color: gold;
+  color: red;
   background-image: url("https://a4-images.myspacecdn.com/images03/2/85a286a4bbe84b56a6d57b1e5bd03ef4/300x300.jpg");
   text-align: center;
   font-family: oxygen;

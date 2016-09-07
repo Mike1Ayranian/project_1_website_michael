@@ -7,3 +7,9 @@ h1 {
   padding: 25px;
   margin: 30px;
 }
+li {
+  color: gold;
+  background-color: black;
+  text-align: center;
+  font-family: oxygen;
+}
