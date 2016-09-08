@@ -1,4 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Fjalla+One|Inconsolata|Oxygen';
+body {
+  background-color: black;
+}
 h1 {
   color: gold;
   background-color: black;
@@ -9,7 +12,9 @@ h1 {
 }
 li {
   color: gold;
-  background-color: black;
   text-align: center;
   font-family: oxygen;
+}
+a {
+  text-align: center;
 }
