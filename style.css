@@ -10,6 +10,7 @@ h1 {
   padding: 25px;
   margin: 30px;
 }
+
 h2 {
   text-align: center;
   font-family: Inconsolata;
@@ -18,12 +19,14 @@ h2 {
   margin: 20px;
   width: 475px;
 }
+
 p {
   color: red;
   text-align: center;
   font-family: oxygen;
   background-image: "https://a4-images.myspacecdn.com/images03/2/85a286a4bbe84b56a6d57b1e5bd03ef4/300x300.jpg"
 }
+
 nav {
   text-align: center;
 }

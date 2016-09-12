@@ -1,7 +1,9 @@
 @import 'https://fonts.googleapis.com/css?family=Fjalla+One|Inconsolata|Oxygen';
+
 body {
   background-color: black;
 }
+
 h1 {
   color: gold;
   background-color: black;
@@ -10,11 +12,9 @@ h1 {
   padding: 25px;
   margin: 30px;
 }
+
 li {
   color: gold;
   text-align: center;
   font-family: oxygen;
-}
-a {
-  text-align: center;
 }
